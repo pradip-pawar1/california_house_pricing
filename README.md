@@ -72,6 +72,15 @@ KNN: RMSE ~ 55,983, R² ~ 0.67
 XGBoost (Best Model): RMSE ~ 41,969, R² ~ 0.82
 ```
 
+## 📊 Model Performance
+<p align="center">
+  <img src="images/RMSE.png" alt="RMSE Comparison" width="45%"/>
+  <img src="images/R2 Score.png" alt="R² Comparison" width="45%"/>
+</p>
+
+
+
+
 ## ✅ Final chosen model: _XGBoost Regressor_
 
 **🚀 Tech Stack:**
